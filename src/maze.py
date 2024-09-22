@@ -1,5 +1,6 @@
+# src/maze.py
 import pygame
-from pellet import Pellet, PowerPellet
+from .pellet import Pellet, PowerPellet
 
 pygame.init()
 

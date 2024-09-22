@@ -1,3 +1,4 @@
+# src/ghost
 import pygame
 import random
 import time

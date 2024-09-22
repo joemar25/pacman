@@ -1,11 +1,12 @@
+# src/game
 import pygame
 import sys
 import random
 import time
-from maze import Maze
-from pacman import Pacman
-from ghost import Ghost
-from powerups import SpeedBoost, FreezePotion
+from .maze import Maze
+from .pacman import Pacman
+from .ghost import Ghost
+from .powerups import SpeedBoost, FreezePotion
 
 pygame.init()
 
